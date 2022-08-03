@@ -1,4 +1,4 @@
-# Práctica de IoT los servicios de Azure
+# Práctica de IoT junto a los servicios de Azure
 ![IoT](/images/IoT.png)
 
 ## Índice
