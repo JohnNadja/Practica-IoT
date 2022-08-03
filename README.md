@@ -26,7 +26,9 @@ Es un servicio que provee seguridad en Azure para los dispositivos inteligentes 
 Es un servicio tipo [PaaS](https://azure.microsoft.com/es-mx/resources/cloud-computing-dictionary/what-is-paas/)
 
 #### IoT Edge ![edgeIcon](/images/icon-IoT-Edge.svg)
-Es una conexión a dispositivos, es decir, el puente que realiza el acceso con Azure a través de *IoT Hub* e *IoT Central* 
+
+Es una conexión a dispositivos, es decir, el puente que realiza el acceso con Azure a través de *IoT Hub* e *IoT Central*.
+
 ----
 
 ### Prerrequisitos para la práctica
